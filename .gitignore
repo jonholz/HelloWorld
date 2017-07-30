@@ -1,0 +1,7 @@
+# C/CPP
+*.out
+# Java
+*.jar
+*.class
+# Maven targets
+MavenJava/HelloWorld/target
