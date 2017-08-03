@@ -5,3 +5,7 @@
 *.class
 # Maven targets
 MavenJava/HelloWorld/target
+# Python Exe
+*.spec
+Python/build
+Python/__pycache__
