@@ -6,3 +6,4 @@ time java -cp Java HelloWorld
 time Perl/HelloWorld
 time Python/HelloWorld.py
 time Ruby/HelloWorld.rb
+time lua5.3 Lua/HelloWorld.lua
