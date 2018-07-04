@@ -1,5 +1,9 @@
-# C/CPP
-*.out
+# C
+C/HelloWorld
+# CPP
+CPP/HelloWorld
+# CSharp
+CSharp/HelloWorld.exe
 # Java
 *.jar
 *.class
