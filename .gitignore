@@ -9,3 +9,6 @@ CSharp/HelloWorld.exe
 *.class
 # Maven targets
 MavenJava/HelloWorld/target
+# CSharp
+csharp/bin
+csharp/obj
